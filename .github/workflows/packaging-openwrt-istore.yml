@@ -38,6 +38,7 @@ on:
           - r08
           - r66s
           - r68s
+          - lckfb-tspi
           - jp-tvbox
           - watermelon-pi
           - rock5b
