@@ -35,6 +35,7 @@ on:
           - h88k-v3
           - l1pro
           - photonicat
+          - lckfb-tspi
           - qemu
           - r08
           - r66s
